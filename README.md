@@ -12,3 +12,12 @@ The lab is suposed to implement:
 
 The output guardrail was suposed to be "homework". The whole got to the point where everything worked except for the output guardrail, not yet implemented at the time.
 Then I disabled the input guardrail, so it would let pass forbidden topics and tried to implement the output guardrail. But it is never called. Articles about the forbidden topics are produced without error.
+
+
+Additional materials:
+- this git repo: https://github.com/manuelvigarcia/OpenAI_API_trial
+- The recorded lab: https://www.loom.com/share/81c3117188ad4392af59e2189168d479
+- documentation about the OPENAI AGENTS API: https://openai.github.io/openai-agents-python/guardrails/
+- OPENAI API platform billing page, to have some credit to invoque the model: https://platform.openai.com/settings/organization/billing/overview
+- Traces page at OPENAI API platform, to see what is really happening: https://platform.openai.com/logs?api=traces
+- The google colab page, from where everything is running: https://colab.research.google.com/drive
