@@ -130,4 +130,6 @@ OUTPUT_GUARDRAIL_AGENT_PROMPT = """Determine if the output involves BLOCKED topi
 - gambling
 - weapons
 - psicological advice
+
+Respond with ONLY "PASS" or "FAIL:<reason>". Nothing else.
 """
